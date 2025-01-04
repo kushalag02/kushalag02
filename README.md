@@ -12,7 +12,6 @@ I'm from Dhanbad
 - 📚 I’m currently learning and experimenting with various programming languages and frameworks.
 - ⚡ I’m constantly working on personal projects to enhance my skills and expand my knowledge.
 - 🤔 I’m always curious and enjoy solving complex problems through creative thinking and logical approaches
-- 👨‍💻 MY portfolio website - https://kushalag.netlify.app/
 - 💬 Ask me about web development, data structures, algorithms, or anything related to software engineering. I'm here to help!
 
 ### 🌐 Socials:
